@@ -1,7 +1,7 @@
 {
   "name": "edge-api-gateway",
-  "version": "1.1.0",
-  "description": "Custom edge routing for backend services",
+  "version": "1.0.0",
+  "description": "Lightweight edge forwarding layer for upstream REST and media API services.",
   "private": true,
   "license": "MIT"
 }
