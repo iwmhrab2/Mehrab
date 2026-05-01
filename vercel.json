@@ -1,1 +1,8 @@
-{ "source": "/(.*)", "destination": "/api/index" }
+{
+  "version": 2,
+  "name": "edge-api-gateway",
+  "routes": [
+    { "src": "/(.*)", "dest": "/api/index" }
+  ],
+  "trailingSlash": false
+}
