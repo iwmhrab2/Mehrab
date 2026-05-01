@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "description": "Lightweight edge forwarding layer for upstream REST and media API services.",
   "private": true,
+  "type": "module",
   "license": "MIT"
 }
